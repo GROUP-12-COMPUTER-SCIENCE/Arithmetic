@@ -1,5 +1,5 @@
 package fullAtm;
-
+// just kidding
 import java.util.Scanner;
 
 //import java.util.Scanner;
