@@ -1,3 +1,3 @@
-# Arithmetic
-This is going to be fun
-New collaborative project
+## Arithmetic
+# This is going to be fun
+~ New collaborative project
