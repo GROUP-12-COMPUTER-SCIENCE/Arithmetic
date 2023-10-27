@@ -28,7 +28,7 @@ class ATM {
 }
 public class AtmMain {
 	public static void main(String[] args) {
-		// Create an ATM object with an initial balance of $1000
+		// Make an ATM object with an initial balance of $1000
 		ATM atm = new ATM(1000.0);
 		Scanner scanner = new Scanner(System.in);
         boolean isRunning = true;
