@@ -1,3 +1,4 @@
+//This is a comment
 package fullAtm;
 
 import java.util.Scanner;
